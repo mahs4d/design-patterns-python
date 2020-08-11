@@ -1,3 +1,8 @@
+"""
+https://sourcemaking.com/design_patterns/iterator
+"""
+
+
 class TrainIterator:
     def __init__(self, train):
         self.number_of_wagons = train.number_of_wagons

@@ -27,7 +27,7 @@ class SmartPhone(Phone):
         return "Smart Phone"
 
 
-# region main
+# region usage
 
 if __name__ == "__main__":
     phone1 = Phone.create_phone(OLD_PHONE_TYPE)

@@ -70,7 +70,7 @@ class SonyFactory(AbstractFactory):
 
 # endregion
 
-# region main
+# region usage
 
 if __name__ == "__main__":
     samsung_factory = SamsungFactory()

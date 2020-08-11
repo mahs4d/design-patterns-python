@@ -15,7 +15,7 @@ class Product(Clonable):
         return self._name
 
 
-# region main
+# region usage
 
 if __name__ == "__main__":
     product1 = Product("p1")

@@ -24,7 +24,7 @@ class MySingletonClass:
         print("__init__ called")
 
 
-# region main
+# region usage
 
 if __name__ == "__main__":
     a = MySingletonClass.get_instance()

@@ -38,7 +38,7 @@ class ReusablePool:
         self._semaphore.release()
 
 
-# region main
+# region usage
 
 if __name__ == "__main__":
     pool = ReusablePool(2)

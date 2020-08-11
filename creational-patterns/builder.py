@@ -29,7 +29,7 @@ class CarBuilder:
         return Car(self._name, self._color)
 
 
-# region main
+# region usage
 
 if __name__ == "__main__":
     my_car = CarBuilder().set_name("pride").set_color("red").build()

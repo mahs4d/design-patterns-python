@@ -12,3 +12,17 @@ language.
 - Object Pool
 - Prototype
 - Singleton
+
+## Behavioral Patterns
+
+- Chain Of Responsibility
+- Command
+- Iterator
+- Memento
+- State
+- Strategy
+- Template Method
+
+## Structural Patterns
+
+- Composite

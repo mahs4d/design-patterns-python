@@ -1,3 +1,7 @@
+"""
+https://sourcemaking.com/design_patterns/strategy
+"""
+
 from abc import ABC, abstractmethod
 
 

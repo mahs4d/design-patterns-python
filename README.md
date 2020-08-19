@@ -25,4 +25,6 @@ language.
 
 ## Structural Patterns
 
+- Adapter
+- Bridge
 - Composite
